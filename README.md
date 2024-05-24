@@ -1,5 +1,4 @@
-# API for Tasks Management
-
+# API for Tasks 
 This project is an API for managing tasks, implementing the repository pattern with Dependency Injection (DI) and Unit of Work, and using JWT for authentication.
 
 ## Features
