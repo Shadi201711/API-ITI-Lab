@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Day2</name>
+    </assembly>
+    <members>
+        <member name="M:Day2.Controllers.StudentsController.GetStudents(System.Int32,System.Int32,System.String)">
+            <summary>
+            Return all Student And Can search For Spesific Student And Pagination 
+            </summary>
+            <param name="PageNumber"></param>
+            <param name="PageSize"></param>
+            <param name="name"></param>
+            <returns>
+            and the return student data id , name , address,super,age</returns>
+        </member>
+    </members>
+</doc>
